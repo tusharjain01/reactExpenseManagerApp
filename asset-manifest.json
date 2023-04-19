@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/reactExpenseManagerApp/static/css/main.dc5c3971.css",
+    "main.js": "/reactExpenseManagerApp/static/js/main.977ec7fa.js",
+    "index.html": "/reactExpenseManagerApp/index.html",
+    "main.dc5c3971.css.map": "/reactExpenseManagerApp/static/css/main.dc5c3971.css.map",
+    "main.977ec7fa.js.map": "/reactExpenseManagerApp/static/js/main.977ec7fa.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dc5c3971.css",
+    "static/js/main.977ec7fa.js"
+  ]
+}
